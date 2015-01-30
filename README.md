@@ -1,2 +1,2 @@
 # shared-docs
-Repository til deling af praktisk information
+Repository til deling af praktisk information, f.eks. klasseliste. 
